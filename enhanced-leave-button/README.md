@@ -1,4 +1,4 @@
-We've added a way to allow users to escape by pressing escape and redirected to more plausible pages.
+We've added a way to allow users to escape by pressing escape and redirected to more plausible pages by following the guide https://css-tricks.com/website-escape/
 
 The functioning page is at front-page.html. To use this rename your leave link to contain   
 ```html
