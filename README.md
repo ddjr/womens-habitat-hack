@@ -1,4 +1,9 @@
 # womens-habitat-hack
+This project was part of the Gift the Code Hackathon in Toronto Q4 2016. https://www.hackworks.com/giftthecode
+The team "the 6 win(d)s" is happy to say we won every award possible for this project!!!!!!
+To get invovled in with Womens habitiat go here: https://womenshabitat.ca/
+
+
 Many of the challenges involved micro-tasks that were not pure code. 
 Work done:  
 
